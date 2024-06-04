@@ -1,0 +1,36 @@
+[submodule "react-hooks-1-useState-useEffect"]
+	path = react-hooks-1-useState-useEffect
+	url = https://github.com/lequyan2003/react-hooks-1-useState-useEffect.git
+[submodule "react-hooks-2-useMemo"]
+	path = react-hooks-2-useMemo
+	url = https://github.com/lequyan2003/react-hooks-2-useMemo.git
+[submodule "react-hooks-3-useCallback"]
+	path = react-hooks-3-useCallback
+	url = https://github.com/lequyan2003/react-hooks-3-useCallback.git
+[submodule "react-hooks-4-ReactMemo"]
+	path = react-hooks-4-ReactMemo
+	url = https://github.com/lequyan2003/react-hooks-4-ReactMemo.git
+[submodule "react-hooks-5-useRef"]
+	path = react-hooks-5-useRef
+	url = https://github.com/lequyan2003/react-hooks-5-useRef.git
+[submodule "react-hooks-6-useReducer"]
+	path = react-hooks-6-useReducer
+	url = https://github.com/lequyan2003/react-hooks-6-useReducer.git
+[submodule "react-hooks-7-newHooks-react18"]
+	path = react-hooks-7-newHooks-react18
+	url = https://github.com/lequyan2003/react-hooks-7-newHooks-react18.git
+[submodule "react-hooks-8-Custom-Hooks"]
+	path = react-hooks-8-Custom-Hooks
+	url = https://github.com/lequyan2003/react-hooks-8-Custom-Hooks.git
+[submodule "react-hooks-9-useContext"]
+	path = react-hooks-9-useContext
+	url = https://github.com/lequyan2003/react-hooks-9-useContext.git
+[submodule "react-hooks-10-useImperativeHandle-useDebugValue"]
+	path = react-hooks-10-useImperativeHandle-useDebugValue
+	url = https://github.com/lequyan2003/react-hooks-10-useImperativeHandle-useDebugValue.git
+[submodule "react-hooks-11-Dependency-Array"]
+	path = react-hooks-11-Dependency-Array
+	url = https://github.com/lequyan2003/react-hooks-11-Dependency-Array.git
+[submodule "react-hooks-12-useMemo-vs-useCallback"]
+	path = react-hooks-12-useMemo-vs-useCallback
+	url = https://github.com/lequyan2003/react-hooks-12-useMemo-vs-useCallback.git
